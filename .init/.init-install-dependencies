@@ -1,0 +1,4 @@
+{
+    "command": "npm install",
+    "working_directory": "/tmp/kavia/workspace/code-generation/initialization-phase-project-27a71c91/frontend_react"
+}
